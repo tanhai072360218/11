@@ -70,6 +70,11 @@ http://183.251.61.207/PLTV/88888888/224/3221227226/index.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221227067/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",五星体育 
 http://live.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视HD
+http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_txadtdtu_key6CB527DC7559404DF46EB0A8ADA1928F70AF885C0F15FCC30E102BC61CFE07EE1D724C912ADBD99D26A0E1C3A182F997A64B33516C1E2983C65F80801A52F38A520837781B249F4D9F590981FF3BDEC3AA69D640D744DC52C0CAC728141E1BC85A013ABEF21E660294678E877B7B5796_/live/dsjpdhd/4000000/d1.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV-世界地理
+http://tlivectfree-cdn.ysp.cctv.cn/6E9ACA5E4FC6A37748BEDEB574DC1553D1FA11A609F7ED5EBA08B4BEDA1D3F68AD55CF32B21FC1F2705DA6A336F53BB87CD13A73A81B1787322D14F338B57E531D4FA47CBC68759ECEAB8B5743DD46FBA2DFD0D542499912240A1950E0A9A469721940D7A3FF92CFE661D8CC92B60EAB7415D9971B29CBB1C1B2E165F7EDAC02D23B90560471493E68E2F81FDE9F56F6/2012513303.m3u8
+
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
