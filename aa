@@ -56,8 +56,18 @@ http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225748/10000100000
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225727/10000100000000060000000000146096_0.smil/index.m3u8?
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐(高清)
 http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225749/10000100000000060000000000146095_0.smil/index.m3u8?
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16HD
+http://183.251.61.207/PLTV/88888888/224/3221227148/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16HD
+http://183.251.61.207/PLTV/88888888/224/3221227125/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文HD
+http://183.251.61.207/PLTV/88888888/224/3221227222/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯HD
+http://183.251.61.207/PLTV/88888888/224/3221227226/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育1HD
+http://183.251.61.207/PLTV/88888888/224/3221227067/index.m3u8
 #EXTINF:-1 精品体育 
 http://live.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
@@ -132,6 +142,10 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",1NewTV潮妈辣婆HD
+http://183.251.61.207/PLTV/88888888/224/3221226107/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",1NewTV爱情喜剧HD
+http://183.251.61.207/PLTV/88888888/224/3221225877/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影
@@ -256,3 +270,27 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221231621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画王国
 http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通剧集1HD
+http://183.251.61.207/PLTV/88888888/224/3221226692/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通剧集2HD
+http://183.251.61.207/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通剧集3HD
+http://183.251.61.207/PLTV/88888888/224/3221227045/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通剧集4HD
+http://183.251.61.207/PLTV/88888888/224/3221227134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通动画1HD
+http://183.251.61.207/PLTV/88888888/224/3221226736/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通动画2HD
+http://183.251.61.207/PLTV/88888888/224/3221226741/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通动画3HD
+http://183.251.61.207/PLTV/88888888/224/3221226743/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通电影1HD
+http://183.251.61.207/PLTV/88888888/224/3221226708/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通电影2HD
+http://183.251.61.207/PLTV/88888888/224/3221226712/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通电影3HD
+http://183.251.61.207/PLTV/88888888/224/3221227130/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百视通电影4HD
+http://183.251.61.207/PLTV/88888888/224/3221227037/index.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",上海第一财经
+http://183.251.61.207/PLTV/88888888/224/3221226987/index.m3u8
