@@ -72,7 +72,7 @@ http://183.251.61.207/PLTV/88888888/224/3221227067/index.m3u8
 http://live.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视HD
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_txadtdtu_key6CB527DC7559404DF46EB0A8ADA1928F70AF885C0F15FCC30E102BC61CFE07EE1D724C912ADBD99D26A0E1C3A182F997A64B33516C1E2983C65F80801A52F38A520837781B249F4D9F590981FF3BDEC3AA69D640D744DC52C0CAC728141E1BC85A013ABEF21E660294678E877B7B5796_/live/dsjpdhd/4000000/d1.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV-世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="动物世界",CCTV-世界地理
 http://tlivectfree-cdn.ysp.cctv.cn/6E9ACA5E4FC6A37748BEDEB574DC1553D1FA11A609F7ED5EBA08B4BEDA1D3F68AD55CF32B21FC1F2705DA6A336F53BB87CD13A73A81B1787322D14F338B57E531D4FA47CBC68759ECEAB8B5743DD46FBA2DFD0D542499912240A1950E0A9A469721940D7A3FF92CFE661D8CC92B60EAB7415D9971B29CBB1C1B2E165F7EDAC02D23B90560471493E68E2F81FDE9F56F6/2012513303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",电影频道1905
 https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1654380301&sign=ecaa197ce40a72a1c7a7ecac87ad6e7f
@@ -100,7 +100,7 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",探索4k
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
-#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="4K",广东综艺4k
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="综艺",广东综艺4k
 http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -304,7 +304,7 @@ http://183.251.61.207/PLTV/88888888/224/3221226991/index.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港奥台",香港台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港台
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://183.207.249.35/PLTV/3/224/3221227217/index.m3u8
