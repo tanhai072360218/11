@@ -335,3 +335,5 @@ http://183.207.249.35/PLTV/3/224/3221227249/index.m3u8
 http://183.207.249.35/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",黑莓电影
 http://183.207.249.35/PLTV/3/224/3221227520/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",最新美剧
+http://v26.toutiaovod.com/0cf2ed074757ad569cc157d05b52acfe/62a588f6/video/tos/cn/tos-cn-ve-4c001-alinc2/7206727ff0d5458e908549c90ec7c4ce/
