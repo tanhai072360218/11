@@ -337,3 +337,28 @@ http://183.207.249.35/PLTV/3/224/3221227506/index.m3u8
 http://183.207.249.35/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",最新美剧
 http://v26.toutiaovod.com/0cf2ed074757ad569cc157d05b52acfe/62a588f6/video/tos/cn/tos-cn-ve-4c001-alinc2/7206727ff0d5458e908549c90ec7c4ce/
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="电影",峨眉电影
+http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",经典在现
+http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",高清影院
+http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",魔力TV
+http://112.19.214.90:8883/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",IPTV淘电影
+http://49.7.234.13:808/hls/125/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",IPTV淘剧场
+http://49.7.234.13:808/hls/125/index.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="电影",北京影视
+http://49.7.234.13:808/hls/160/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",湖南娱乐
+http://36.158.72.54:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",湖南电影
+http://36.158.72.54:808/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",湖南电视剧
+http://36.158.72.54:808/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南公共
+http://36.158.72.54:808/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南都市
+http://36.158.72.54:808/hls/17/index.m3u8
+
