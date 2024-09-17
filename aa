@@ -65,9 +65,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文HD
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯HD
-https://ytb.52sf.ga/live.m3u8?c=23
+http://61.221.215.25:8800/hls/47/index.m3u8
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",﻿新闻综合
-https://bp-live.bestv.com.cn/live/bestxwzh.m3u8?auth_key=1654837202-01d442762f7b4a989c033cf3e1acd13a-0-f83147940da2d24a748eeb40137eeddb
+http://117.161.12.124/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",外语频道
 https://bp-live.bestv.com.cn/live/bestwypd.m3u8?auth_key=1654837202-481b2a325b7342598613061d916c7180-0-ae46b7595bee120cc85ea276161ddeaf
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
